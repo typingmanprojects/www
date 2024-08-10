@@ -1,3 +1,7 @@
+figcaption {
+    text-align: center;
+}
+
 .team-members {
     display: flex;
     justify-content: space-evenly;
@@ -10,9 +14,7 @@
 
 .projects {
     display: flex;
-    flex: 1 1 auto;
-    justify-content: space-evenly;
-    flex-wrap: wrap;
+    flex-direction: column;
 }
 
 .project {
@@ -21,5 +23,8 @@
     background-color: white;
     border-radius: 0.25rem;
     padding: 0 1rem;
-    margin: 1rem;
+}
+
+.project + .project {
+    margin-top: 1rem;
 }
