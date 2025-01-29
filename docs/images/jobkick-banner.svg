@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="640"
+   viewBox="0 -960 51200 25600"
+   width="1280"
+   fill="#e8eaed"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="jobkick-banner.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.8599144"
+     inkscape:cx="564.59108"
+     inkscape:cy="295.37824"
+     inkscape:window-width="1920"
+     inkscape:window-height="1131"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <rect
+     style="fill:#f7b500;fill-opacity:1;stroke:none;stroke-width:754.245;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1"
+     width="51200"
+     height="25600"
+     x="0"
+     y="-960" />
+  <path
+     d="M 8746.6671,24000 8167.6193,13577.142 4490.6671,11463.619 4085.3335,12969.142 6430.4759,17051.428 4432.7618,18209.524 1566.4762,13287.619 2956.1901,8307.8097 9615.2388,4486.0954 6430.4759,1301.3334 8051.8096,-320 13379.047,4978.2858 9209.9052,7381.3336 10599.619,8597.3335 20096,838.09523 21485.715,2459.4286 11641.905,12419.047 11062.858,24000 Z M 2956.1901,6628.5715 q -955.4281,0 -1635.8091,-680.3812 Q 640,5267.8097 640,4312.3809 q 0,-955.4285 680.381,-1635.8094 680.381,-680.3811 1635.8091,-680.3811 955.4292,0 1635.8097,680.3811 680.3815,680.3809 680.3815,1635.8094 0,955.4288 -680.3815,1635.8094 -680.3805,680.3812 -1635.8097,680.3812 z"
+     id="path1"
+     style="fill:#232333;fill-opacity:1;stroke:none;stroke-width:579.047;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     style="font-weight:bold;font-size:5760px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#232333;stroke-width:30"
+     x="21485.715"
+     y="13973.281"
+     id="text1"><tspan
+       sodipodi:role="line"
+       id="tspan1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5760px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';stroke-width:30"
+       x="21485.715"
+       y="13973.281">JobKick</tspan></text>
+</svg>
